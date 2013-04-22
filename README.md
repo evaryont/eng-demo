@@ -1,3 +1,8 @@
+# Evaryont's english presentation
+
+Just borrowing a complete-ish LocalStorage application to demonstrate website
+defacement!
+
 # Backbone localStorage Adapter v1.0
 
 [![Build Status](https://secure.travis-ci.org/jeromegn/Backbone.localStorage.png?branch=master)](http://travis-ci.org/jeromegn/Backbone.localStorage)
